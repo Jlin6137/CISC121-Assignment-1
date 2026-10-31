@@ -4,7 +4,7 @@
 # On Codility, paste ONE function per problem (each must be named `solution`).
 # Here they are given distinct names so they can live in one file.
 #
-# Citation: Solutions assisted by Claude (Anthropic), October 31st 2026, [chat link].
+# Citation: Solutions assisted by Claude (Anthropic), October 30th 2026, https://claude.ai/share/d252a8f0-20a8-4863-aee9-aee525230663
 
 
 # ---------------------------------------------------------------
