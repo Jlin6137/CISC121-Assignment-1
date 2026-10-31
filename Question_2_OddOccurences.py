@@ -1,3 +1,15 @@
+# Assignment 1 - Codility Lessons
+# Five selected problems: CyclicRotation, OddOccurrencesInArray, FrogJmp,
+# PermMissingElem, TapeEquilibrium.
+# On Codility, paste ONE function per problem (each must be named `solution`).
+# Here they are given distinct names so they can live in one file.
+#
+
+# ---------------------------------------------------------------
+# 2. OddOccurences
+# Looks for the number that only appears once/unpaired
+# ---------------------------------------------------------------
+
 def Odd_Occurences(A):
     #Counts how man times each number appears
     counts = {}
