@@ -1,6 +1,3 @@
-# you can write to stdout for debugging purposes, e.g.
-# print("this is a debug message")
-
 def solution(A):
     #Puts the elements into a set so it can check them quickly
     seen = set(A)
